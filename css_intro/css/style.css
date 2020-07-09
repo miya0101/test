@@ -5,3 +5,35 @@
 .description {
   color: blue;
 }
+
+.box1 {
+  background-color: silver;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+
+.box2 {
+  background-color: black;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
+
+button {
+  background-color: blue;
+  padding: 100px 300px;
+  border: 2px solid red;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 200px;
+  font-weight: bold;
+  font-family: 'arial';
+}
+
+span {
+  display: block;
+  font-size: 30px;
+}
